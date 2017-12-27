@@ -1,4 +1,4 @@
-#Squared Randoms
+# Squared Randoms
 
 ### Setup
 ```bash
